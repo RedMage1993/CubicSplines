@@ -39,7 +39,7 @@
             this.pbxGraph.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pbxGraph.Location = new System.Drawing.Point(12, 12);
             this.pbxGraph.Name = "pbxGraph";
-            this.pbxGraph.Size = new System.Drawing.Size(480, 450);
+            this.pbxGraph.Size = new System.Drawing.Size(800, 400);
             this.pbxGraph.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pbxGraph.TabIndex = 5;
             this.pbxGraph.TabStop = false;
@@ -55,7 +55,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(504, 474);
+            this.ClientSize = new System.Drawing.Size(824, 424);
             this.Controls.Add(this.pbxGraph);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;

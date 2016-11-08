@@ -31,8 +31,9 @@ namespace Homework_07
         public PointD C { get; private set; }
         public PointD D { get; private set; }
 
-        private double width { get; set; }
-        private double height { get; set; }
+        public double width { get; private set; }
+
+        public double height { get; private set; }
 
         public CubicSpline(double w, double h)
         {
