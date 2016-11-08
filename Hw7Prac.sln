@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw7Prac", "Hw7Prac\Hw7Prac.csproj", "{0C48D5C5-E2DB-4F85-A186-B349F1E4ED63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C48D5C5-E2DB-4F85-A186-B349F1E4ED63}.Debug|x86.ActiveCfg = Debug|x86
+		{0C48D5C5-E2DB-4F85-A186-B349F1E4ED63}.Debug|x86.Build.0 = Debug|x86
+		{0C48D5C5-E2DB-4F85-A186-B349F1E4ED63}.Release|x86.ActiveCfg = Release|x86
+		{0C48D5C5-E2DB-4F85-A186-B349F1E4ED63}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
